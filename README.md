@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m a 3rd year engineering student at The <br>National Institute of Applied Science and Technology in Tunisia.<br>🌱 I’m currently learning Angular.<br>⚡ Fun fact i am a painter !
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif">
+ <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif">-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sarwirr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarra-ben-halima-94509b228/) 
@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarwirr&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarwirr&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwirr&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarwirr&theme=discord&no-frame=false&no-bg=true&margin-w=4)
