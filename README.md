@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://rishavchanda.io) -->
 
 # 💫 About Me:
-🔭 I’m a 3rd year engineering student at The <br>National Institute of Applied Science and Technology in Tunisia.<br>🌱 I’m currently learning Flutter.<br>⚡ Fun fact i am a painter !
+🔭 I’m a 3rd year engineering student at The <br>National Institute of Applied Science and Technology in Tunisia.<br>🌱 I’m currently learning DevOps.<br>⚡ Fun fact i love painting !
  <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif">-->
 
 ## 🌐 Socials:
