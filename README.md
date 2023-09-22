@@ -1,27 +1,37 @@
-<!-- [![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://rishavchanda.io) -->
+[![Gmail](https://img.shields.io/badge/-sarrah.ben.halima-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarrah.benhalima@insat.ucar.tn) [![](https://visitcount.itsvg.in/api?id=sarwirr&icon=5&color=1)](https://visitcount.itsvg.in) [![Github](https://img.shields.io/github/followers/sarwirr?label=Follow&style=social)](https://github.com/sarwirr) 
 
-# 💫 About Me:
-🔭 I’m a 3rd year engineering student at The <br>National Institute of Applied Science and Technology in Tunisia.<br>🌱 I’m currently learning DevOps.<br>⚡ Fun fact i love painting !
- <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif">-->
+<h1 align="center">
+    <b>Hello :wave:</b>
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sarwirr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarra-ben-halima-94509b228/) 
+``` yaml
+introduction:
+    name: Sarrah Ben Halima
+    interests:
+    - Backend Development
+    - DevOps
+    - Painting
+    settings:
+        dark_mode: true
+        language: English
+        os: Pop Os
+    bio: |
+       I am a fourth year Network and Telecommunication student at the
+       National Institute of Applied Science and Technologies.     
+```
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarwirr&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarwirr&theme=synthwave&hide_border=true)<br/>
+<h2 align="center">
+    <b>Let's connect! 😁</b>
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarrah-ben-halima-94509b228/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sarwirr/)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarwirr&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sarwirr&show_icons=true&theme=graywhite" alt="sarwirr's github stats">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=sarwirr&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<h2 align="center">
+    <b>Well, it was nice meeting you! Have a great day! :wave:	
+</h2>
