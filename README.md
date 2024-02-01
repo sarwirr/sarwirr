@@ -28,10 +28,6 @@ introduction:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sarwirr/)
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarwirr&show_icons=true&theme=graywhite" alt="sarwirr's github stats">
-</p>
-
 <h2 align="center">
     <b>Well, it was nice meeting you! Have a great day! :wave:	
 </h2>
