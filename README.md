@@ -16,7 +16,7 @@ introduction:
         language: English
         os: Pop Os
     bio: |
-       I am a fourth year Network and Telecommunication student at the
+       I am a final year Network and Telecommunication student at the
        National Institute of Applied Science and Technologies.     
 ```
 
