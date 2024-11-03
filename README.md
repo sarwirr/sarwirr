@@ -20,6 +20,11 @@ introduction:
        National Institute of Applied Science and Technologies.     
 ```
 
+
+## 🎉 Certifications
+<a href="https://www.credly.com/badges/9cbc46c0-171a-47fe-ac2d-cbfc9b5ffd32/public_url"><img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png"></a>
+
+
 <h2 align="center">
     <b>Let's connect! 😁</b>
 </h2>
